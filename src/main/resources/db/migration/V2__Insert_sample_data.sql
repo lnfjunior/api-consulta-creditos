@@ -1,0 +1,87 @@
+-- Inserção de dados de exemplo conforme especificação do desafio
+INSERT INTO credito (
+    numero_credito, 
+    numero_nfse, 
+    data_constituicao, 
+    valor_issqn, 
+    tipo_credito, 
+    simples_nacional, 
+    aliquota, 
+    valor_faturado, 
+    valor_deducao, 
+    base_calculo
+) VALUES 
+(
+    '123456', 
+    '7891011', 
+    '2024-02-25', 
+    1500.75, 
+    'ISSQN', 
+    true, 
+    5.0, 
+    30000.00, 
+    5000.00, 
+    25000.00
+),
+(
+    '789012', 
+    '7891011', 
+    '2024-02-26', 
+    1200.50, 
+    'ISSQN', 
+    false, 
+    4.5, 
+    25000.00, 
+    4000.00, 
+    21000.00
+),
+(
+    '654321', 
+    '1122334', 
+    '2024-01-15', 
+    800.50, 
+    'Outros', 
+    true, 
+    3.5, 
+    20000.00, 
+    3000.00, 
+    17000.00
+),
+-- Dados adicionais para testes mais robustos
+(
+    '111222', 
+    '5566778', 
+    '2024-03-01', 
+    2500.00, 
+    'ISSQN', 
+    true, 
+    5.0, 
+    50000.00, 
+    7500.00, 
+    42500.00
+),
+(
+    '333444', 
+    '5566778', 
+    '2024-03-02', 
+    1800.75, 
+    'ISSQN', 
+    false, 
+    4.0, 
+    45000.00, 
+    6000.00, 
+    39000.00
+),
+(
+    '555666', 
+    '9988776', 
+    '2024-02-15', 
+    950.25, 
+    'Outros', 
+    true, 
+    3.0, 
+    31675.00, 
+    4000.00, 
+    27675.00
+);
+

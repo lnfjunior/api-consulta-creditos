@@ -388,6 +388,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 Para suporte e dúvidas:
 
 - 📧 Email: lnfjunior@gmail.com
+- 📋 Issues: [GitHub Issues](https://github.com/lnfjunior/api-consulta-creditos/issues)
+- 📖 Wiki: [Documentação Técnica](https://github.com/lnfjunior/api-consulta-creditos/wiki)
 
 ---
 

@@ -5,7 +5,7 @@
 **Projeto**: API RESTful para Consulta de Créditos Constituídos  
 **Tecnologia**: Java 21 + Spring Boot 3.2.0 + PostgreSQL + Apache Kafka  
 **Arquitetura**: Clean Architecture + Domain-Driven Design  
-**Data de Entrega**: 2024-02-25  
+**Data de Entrega**: 2025-06-03  
 
 ## ✅ Requisitos Atendidos
 

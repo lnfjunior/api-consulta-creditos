@@ -393,5 +393,5 @@ Para suporte e dúvidas:
 
 ---
 
-**Desenvolvido com ❤️ usando Java 21 e Spring Boot**
+**Desenvolvido com ❤️ por Luiz Nogueira usando Java 21 e Spring Boot**
 
